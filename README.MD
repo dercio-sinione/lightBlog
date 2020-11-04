@@ -70,7 +70,6 @@ This project is broken up into a backend and frontend. The backend contains the 
 <h2>Usage :</h2>
     <h3>Run the following commands to get started:</h3>
 
-    ```json
     virtualenv env
     pip install -r requirements.txt
     python manage.py runserver
@@ -84,7 +83,27 @@ This project is broken up into a backend and frontend. The backend contains the 
     npm i
     npm run build
     In your web browser enter the address : http://localhost:3000/ or http://127.0.0.1:3000/
-    ```
+
+# Screenshots
+
+<p><img src="Screenshots/Captura%20de%20Tela%20(28).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(80).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(81).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(78).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(79).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(82).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(165).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(166).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(167).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(168).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(169).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(170).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(171).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(172).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(173).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(174).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(175).png" height="400" width="800"></p>
+<p><img src="Screenshots/Captura%20de%20Tela%20(176).png" height="400" width="800"></p>
 
 
 # Support :
