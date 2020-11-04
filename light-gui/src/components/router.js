@@ -21,9 +21,9 @@ export default function Roteador(props) {
     <Router>
       <Switch>
       <Header  isAuthenticated={props.isAuthenticated}>
-        <Route path='/' exact component={Home} />
-        <Route path='/musicas' exact component={Home} />
+        <Route path='/' exact component={Blog} />
         <Route path='/post' exact component={Blog} />
+        <Route path='/musicas' exact component={Home} />
         <Route path='/post/:id' exact component={ArticleDetail} />
         <Route path='/post/:id/update' exact component={UpdatePost} />
         <Route path='/post/user/:username' exact component={UserPost} />
