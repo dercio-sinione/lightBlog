@@ -11,6 +11,7 @@ This project is broken up into a backend and frontend. The backend contains the 
     <li>GraphQL JWT</li>
     <li>JavaScript</li>
     <li>ReactJs</li>
+    <li>Redux</li>
 </ul>
 
 
