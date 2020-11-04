@@ -1,4 +1,4 @@
-# LightMusic, Django + ReactJs Introduction
+# LightMusic, Django + ReactJs
 
 This project is broken up into a backend and frontend. The backend contains the Django project which uses the Graphene Django and Graphql JWT to host the API. The frontend uses ReactJs and queries data from the API.
 
