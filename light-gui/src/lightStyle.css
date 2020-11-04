@@ -1,0 +1,48 @@
+a{
+    text-decoration: none;
+}
+
+.borderImg{
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+.mt-15{
+    margin-top: -15px;
+    }
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.cursor-pointer:hover{
+  color: rgba(5, 124, 192, 0.904);
+}
+
+.no-link-color{
+ color: #808080;   
+}
+
+.info-detail{
+    display: flex;
+}
+
+.info-detail span{
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.less-ml{
+    margin-left: -10px;
+}
+
+.Loadingcenter{
+    width: 100%;
+    height: 50vmax;
+    display: flex;
+    flex-direction: column;
+}
+
+.LoadingcenterMT{
+    margin-top: 25%;
+}
