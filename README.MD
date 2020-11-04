@@ -7,27 +7,32 @@ This project is broken up into a backend and frontend. The backend contains the 
 <ul>
     <li>Python</li>
     <li>Django</li>
-    <li>Bootstrap</li>
+    <li>Graphene Django</li>
+    <li>GraphQL JWT</li>
     <li>JavaScript</li>
+    <li>ReactJs</li>
 </ul>
 
 
 <h2>Additional Python Modules Required:</h2>
 <ul>
-    <li>Django</li>
-    <li>django-crispy-forms</li>
-    <li>Pillow</li>
+    <li>Django==2.2.4</li>
+    <li>graphene==2.1.8</li>
+    <li>graphene-django==2.13.0</li>
+    <li>django-graphql-jwt==0.3.1</li>
+    <li>django-filter>=2</li>
+    <li>django-cors-headers==3.5.0</li>
+    <li>Pillow==7.2.0</li>
+    <li></li>
 </ul>  
 
-
-Run the following commands to get started:
 
 <h2>Usage :</h2>
     <h3>Run the following commands to get started:</h3>
 
     ```json
-    // virtualenv env
-    // pip install -r requirements.txt
+    virtualenv env
+    pip install -r requirements.txt
     python manage.py runserver
     python manage.py makemigrations
     python manage.py migrate
